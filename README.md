@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosmagnorosa
 - 👀 I’m interested in Full Stack Development using .NET and Frontend Frameworks such as Angular/ReactJS. Sometimes I also dabble in board game design.
-- 🌱 Currently learning ReactJS, .NET Microservices with Docker and K8s and AWS.
+- 🌱 Currently learning ReactJS, .NET Microservices with Docker and AWS.
 
 
 
